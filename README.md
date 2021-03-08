@@ -34,17 +34,17 @@ Para prosseguir com o desafio, precisaremos criar na API um sistema de atualiza�
 
 A lista de arquivos do Open Food, pode ser encontrada em: 
 
-- https://static.openfoodfacts.org/data/delta/index.txt
+- https://challenges.coode.sh/food/data/json/index.txt
+- https://challenges.coode.sh/food/data/json/data-fields.txt
 
-Onde cada linha representa um arquivo que está disponível em https://static.openfoodfacts.org/data/delta/{filename}. O nome do arquivo contém o timestamp UNIX da primeira e última alteração contida no arquivo JSON, para que os arquivos possam ser importados (após extracção) ordenados.
+Onde cada linha representa um arquivo que está disponível em https://challenges.coode.sh/food/data/json/{filename}.
 
 É recomendável utilizar uma Collection secundária para controlar os históricos das importações e facilitar a validação durante a execução.
 
 Ter em conta que:
 
 - Todos os produtos deverão ter os campos personalizados `imported_t` e `status`.
-- Limitar a importação a somente 100 produtos;
-- Para gerar a URL das imagens, revisar o How to do projeto em: https://wiki.openfoodfacts.org/Developer-How_To
+- Limitar a importação a somente 100 produtos de cada arquivo.
 
 ### A REST API
 
