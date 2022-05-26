@@ -6,9 +6,10 @@ Nesse desafio trabalharemos no desenvolvimento de uma REST API para utilizar os 
 
 O projeto tem como objetivo dar suporte a equipe de nutricionistas da empresa Fitness Foods LC para que eles possam revisar de maneira rápida a informação nutricional dos alimentos que os usuários publicam pela aplicação móvel.
 
-### Obrigatório
- 
-- Trabalhar em um FORK deste repositório em seu usuário;
+
+### Instruções iniciais obrigatórias
+
+- Utilizar o seu github pessoal para publicar o desafio. Confirme que a visibilidade do projeto é pública (não esqueça de colocar no readme a referência a este challenge);
 - O projeto back-end deverá ser desenvolvido usando em NodeJS
 - Documentação para configuração do projeto em ambientes de produção (como instalar, rodar e referências a libs usadas);
  
@@ -88,4 +89,4 @@ Após essa etapa será marcado a apresentação/correção do projeto.
 
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com. 
+Use a [nossa comunidade](https://coodesh.com/desenvolvedores#community) para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com.
