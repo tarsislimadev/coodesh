@@ -1,5 +1,7 @@
 # Node.js Challenge para a Coodesh
 
+Descrição completa em [README.old.md](./README.old.md)
+
 ## Stack
 
 [Node.js](https://nodejs.org/en/)
