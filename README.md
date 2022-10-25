@@ -2,9 +2,13 @@
 
 ## Stack
 
-[Node.js]()
+[Node.js](https://nodejs.org/en/)
 
-[MongoDB]()
+[MongoDB](https://www.mongodb.com/)
+
+[Nginx](https://nginx.org/)
+
+[Docker (+ Docker Compose)](https://www.docker.com/)
 
 ## How to
 
