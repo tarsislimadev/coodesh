@@ -1,7 +1,11 @@
 version: '3'
 
 services:
+
   api:
     build: './src/proxypass-nginx-server'
     ports:
       - '80:80'
+
+  mongo-database:
+    build: './src/mongo-database'
