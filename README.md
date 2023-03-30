@@ -81,6 +81,10 @@ Descrição completa em [README.old.md](./README.old.md)
 ### Development
 
 ```sh
+bash env/pull.sh
+
+bash env/install.sh
+
 bash env/up.sh 
 ```
 
